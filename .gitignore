@@ -1,2 +1,5 @@
+APIkeys.json
 db.json
+movies.sqlite
 posters/*
+__pycache__
